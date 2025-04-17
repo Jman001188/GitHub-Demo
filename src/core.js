@@ -1,2 +1,4 @@
 // Placeholder for core logic
-// Potential conflict change FEATURE 2
+
+// Another possible conflict FROM FEATURE2
+
