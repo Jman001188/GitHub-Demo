@@ -1,2 +1,2 @@
 // Placeholder for core logic
-// Potential conflict change
+// Potential conflict change FEATURE 2
